@@ -3,11 +3,11 @@
 <br />
 
 ## Table of Contents
-* Description (#description)
-* Installation (#installation)
-* License (#license)
-* Credits (#credits)
-* Questions (#questions)
+* [Description] (#description)
+* [Installation] (#installation)
+* [License] (#license)
+* [Credits] (#credits)
+* [Questions] (#questions)
 
 ## Description
 A README generator for various projects. As a developer, it is a handy tool to have. <br />
