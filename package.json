@@ -1,0 +1,19 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "A readme generator for school weekly challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jinjoolee1/Readme-generator.git"
+  },
+  "author": "Emma Coughlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jinjoolee1/Readme-generator/issues"
+  },
+  "homepage": "https://github.com/jinjoolee1/Readme-generator#readme"
+}
