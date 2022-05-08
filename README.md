@@ -3,11 +3,12 @@
 <br />
 
 ## Table of Contents
-* [Description] (#description)
-* [Installation] (#installation)
-* [License] (#license)
-* [Credits] (#credits)
-* [Questions] (#questions)
+* Description
+* Installation
+* License 
+* Credits
+* Questions
+* User Story
 
 ## Description
 A README generator for various projects. As a developer, it is a handy tool to have. <br />
@@ -25,7 +26,7 @@ Credit goes to Emma Coughlin (https://github.com/jinjoolee1)
 ## Questions
 Direct any questions to jinjoolee126@gmail.com
 
-
+## User Story
 AS A developer <br />
 I WANT a README generator <br />
 SO THAT I can quickly create a professional README for a new project <br />
