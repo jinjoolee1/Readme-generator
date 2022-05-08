@@ -1,4 +1,30 @@
-# Professional README Generator Starter 
+# Professional README Generator
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+<br />
+
+## Table of Contents
+* Description (#description)
+* Installation (#installation)
+* License (#license)
+* Credits (#credits)
+* Questions (#questions)
+
+## Description
+A README generator for various projects. As a developer, it is a handy tool to have. <br />
+
+## Installation
+
+## License
+This project is under the The MIT License 
+
+https://opensource.org/licenses/MIT
+
+## Credits
+Credit goes to Emma Coughlin (https://github.com/jinjoolee1)
+
+## Questions
+Direct any questions to jinjoolee126@gmail.com
+
 
 AS A developer <br />
 I WANT a README generator <br />
@@ -24,3 +50,4 @@ SO THAT I can quickly create a professional README for a new project <br />
 * THEN I am taken to the corresponding section of the README
 
 [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+
